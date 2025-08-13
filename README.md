@@ -5,7 +5,7 @@ A catalog of 304 **Ex**tragalactic non-AGN X-ray **Tra**nsients and variables de
 This repository provides the complete dataset, key analysis scripts, and visualizations associated with the eRO-ExTra catalog.
 
 <div align="center">
-  <img src="demo/skymap_interaction_demo.gif" alt="All-sky map of eRO-ExTra sources" width="800"/>
+  <img src="demo/skymap_interaction_demo_galaxies.gif" alt="All-sky map of eRO-ExTra sources" width="800"/>
 </div>
 
 📄 **Full catalog description and methodology are available in our publication:**
